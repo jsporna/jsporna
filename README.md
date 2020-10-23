@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **jsporna/jsporna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm philosopher and practitioner of DevOps. I like to experiment with infrastructure and configuration as code - mainly with the use of Hashicorp stack.
+- 💬 my web and blog are at [sporna.dev](https://sporna.dev)
+- 🌱 learning two new tools: Hashicorp Boundary & Waypoint
+- 🔭 trying to creat own key/value DB engine pure in Python
