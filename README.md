@@ -18,30 +18,31 @@ I'm philosopher and practitioner of DevOps. I like to experiment with infrastruc
 - 🌱 learning two new tools: Hashicorp Boundary & Waypoint
 - 🔭 trying to creat own key/value DB engine pure in Python
 
-
-#             NNNNN                   NNN
-#         NNNNNNNNNNNNNN             NNN
-#      NNNNNNNNNNNNNNNNNNN          NNN 
-#     NNNNNNNNNNNNNNNNNNNNNN       NNN
-#   NNNNNNNNNNNNNNNNNNNNNNNNN     NNN
-#  NNNNNNNNNNNNNNNNNNNNNNNNNNNN   NN
-#  NNNNNNNNNNNNNNNNNNNNNNNNNNNNN  N
-# NNNNNNNNNNNNNNNNNNNNNNNNNNNNN
-# NNNNNNNNNNNNNNNNNNNNNNNNNNNN 
-#               N    NNNNNNNN   N
-#   **       ***        NNNN   NN
-#                       NNN   NNN
-#                     NNNN   NNN
-# NNNN         NNNNNNNNNN   NNNN    
-# NNNNNNNNNNNNNNNNNNNNNN   NNNN
-#  NNNNNNNNNNNNNNNNNNN   NNNN
-#    NNNNNNNNNNNNNNNNN  NNNN
-#      NNNNNNNNNNN      NN
-#         NNNNNNN    |   NNN
-#        NNNNNNNN   |    NNNNN
-#      NNNNNNNNNNN      NNNNNN
-#     NNNNNNNN     NNNNNNNNN
-#       NNNNN   |  NNNNNNNN
-#         NNN  |   NNNNNNNNN
-#        NNNNN    NNNNNNNNNNNN
-# NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+```
+             NNNNN                   NNN
+         NNNNNNNNNNNNNN             NNN
+      NNNNNNNNNNNNNNNNNNN          NNN 
+     NNNNNNNNNNNNNNNNNNNNNN       NNN
+   NNNNNNNNNNNNNNNNNNNNNNNNN     NNN
+  NNNNNNNNNNNNNNNNNNNNNNNNNNNN   NN
+  NNNNNNNNNNNNNNNNNNNNNNNNNNNNN  N
+ NNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+ NNNNNNNNNNNNNNNNNNNNNNNNNNNN 
+               N    NNNNNNNN   N
+   **       ***        NNNN   NN
+                       NNN   NNN
+                     NNNN   NNN
+ NNNN         NNNNNNNNNN   NNNN    
+ NNNNNNNNNNNNNNNNNNNNNN   NNNN
+  NNNNNNNNNNNNNNNNNNN   NNNN
+    NNNNNNNNNNNNNNNNN  NNNN
+      NNNNNNNNNNN      NN
+         NNNNNNN    |   NNN
+        NNNNNNNN   |    NNNNN
+      NNNNNNNNNNN      NNNNNN
+     NNNNNNNN     NNNNNNNNN
+       NNNNN   |  NNNNNNNN
+         NNN  |   NNNNNNNNN
+        NNNNN    NNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+```
