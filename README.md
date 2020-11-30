@@ -23,6 +23,7 @@ I'm philosopher and practitioner of DevOps. I like to experiment with infrastruc
 [<img align="left" alt="Amazon AWS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/amazonaws.svg" />][website]
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/python.svg" />][website]
 [<img align="left" alt="Terraform" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/terraform.svg" />][website]
+[<img align="left" alt="Vagrant" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/vagrant.svg" />][website]
 [<img align="left" alt="Ansible" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/ansible.svg" />][website]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/git.svg" />][website]
 [<img align="left" alt="Github" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/github.svg" />][website]
